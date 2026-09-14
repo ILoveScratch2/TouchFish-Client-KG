@@ -1,7 +1,7 @@
 class AppConstants {
   AppConstants._();
-  static const String appName = 'TouchFish Client';
-  static const String packageName = 'touchfish_client';
+  static const String appName = '酷狗概念版';
+  static const String packageName = 'tf_kugou';
 
   // Default info
   static const String defaultVersion = '0.0.3';
@@ -10,7 +10,7 @@ class AppConstants {
   // URLs
   static const String documentationUrl = 'https://touchfish.ilovescratch.us.ci';
   static const String githubRepoUrl =
-      'https://github.com/ILoveScratch2/TouchFish-Client';
+      'https://github.com/ILoveScratch2/TouchFish-Client-KG';
   static const String githubServerRepoUrl =
       'https://github.com/2044-space-elevator/TouchFishServer';
   static const String licenseUrl =

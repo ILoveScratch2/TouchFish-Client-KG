@@ -1,4 +1,4 @@
-package ci.us.ilovescratch.touchfish.astra.v3.touchfish_client
+package com.kugou.music.tf
 
 import android.app.KeyguardManager
 import android.content.ContentValues
